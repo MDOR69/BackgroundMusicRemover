@@ -12,4 +12,10 @@
   <li>Install pytorch <a href = "https://pytorch.org/">here</a>, using their handy installer.</li>
   <li>Finally, make sure you have FFMpeg installed. If you're on Windows, check out this installation guide from <a href="https://www.wikihow.com/Install-FFmpeg-on-Windows">WikiHow.</a></li>
  </li>
- 
+</ol>
+
+<h3>Required Packages</h3>
+<hr>
+<ul>
+  <li>spleeter</li>
+</ul>
