@@ -17,5 +17,13 @@
 <h3>Required Packages</h3>
 <hr>
 <ul>
-  <li>spleeter</li>
+  <li><a href="https://github.com/deezer/spleeter">spleeter</a></li>
 </ul>
+
+<h3>How to use</h3>
+<hr>
+<ol>
+  <li>Place your video files in the Input Folder</li>
+  <li>Run the command python BackgroundMusicRemover.py</li>
+  <li>After the script executes, you should find the videos in the Output folder</li>
+ </ol>
