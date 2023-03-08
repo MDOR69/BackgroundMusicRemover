@@ -1,7 +1,6 @@
 # BackgroundMusicRemover
 <p>This tool is designed to remove the background music of a video, and then return a VIDEO with the bg audio removed.</p>
 <p>This should make life a bit easier when you have to isolate the vocals from a batch of videos</p>
-<br>
 <strong><h3>Warning!</h3></strong>
 <hr>
 <p> Yo, I made this script in 2 hours whilst sleep deprived, so if it has bugs, please keep that in mind</p>
@@ -24,6 +23,13 @@
 <hr>
 <ol>
   <li>Place your video files in the Input Folder</li>
-  <li>Run the command python BackgroundMusicRemover.py</li>
+  <li>Run the command: $python BackgroundMusicRemover.py</li>
   <li>After the script executes, you should find the videos in the Output folder</li>
  </ol>
+ <h3>Acknowledgements</h3>
+ <hr>
+ <p>In random order, I would like to thank</p>
+ <ul>
+  <li>Deezer for making Spleeter</li>
+  <li>That mosquito that kept me awake all night which lead me to making this script out of boredom</li>
+ </ul>
