@@ -10,6 +10,7 @@
   <li>Make sure you have a version of Python that supports pytorch. As of 08/03/2023, this is python 3.10</li>
   <li>Install pytorch <a href = "https://pytorch.org/">here</a>, using their handy installer.</li>
   <li>Finally, make sure you have FFMpeg installed. If you're on Windows, check out this installation guide from <a href="https://www.wikihow.com/Install-FFmpeg-on-Windows">WikiHow.</a></li>
+  <li>Finally, download this repo and keep it somewhere safe</li>
  </li>
 </ol>
 
